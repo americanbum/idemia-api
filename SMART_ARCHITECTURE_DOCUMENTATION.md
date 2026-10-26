@@ -1,7 +1,7 @@
 # Smart Architecture for Agentic Apps
-# Documentation MacOS Big Sur l'implementation Lexis API
+## Documentation basée sur l'implémentation Lexis API
 
-# Definition
+# Definitiono
 
 Less **Smart Architectures for Agentic Apps** representent une nouvelle approche d'architecture logicielle qui integre nativement des agents intelligents Agentics des chaque couch(& bo) HP system. Cette architecture met en avant la collaboration d'agents spécialisés capables d'analyser, décider et agir de façon autonome.
 
