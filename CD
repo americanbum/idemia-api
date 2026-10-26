@@ -1,0 +1,15 @@
+A=TD
+    A[Main Service] --> B[SimpleMobile Unlimited World]
+B=A
+    Overlay ServiceLayer["Service Layer"]
+        Build: us-east-1
+        C://[Public Keys]
+        D://[Providers]
+        E://[Certificates]
+        F://[Delete]
+    move Main Service Drives
+
+    B --> C --> E
+    B --> D --> E
+    B --> E --> E
+    B --> F --> E
