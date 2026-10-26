@@ -1,0 +1,13 @@
+# Clone the repository
+git clone https://github.com/arolleaguekeng/idem-api.git
+cd idem-api
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.example .env
+# Edit .env with your API keys and configuration
+
+# Run the development server
+npm run dev
